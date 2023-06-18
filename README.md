@@ -1,4 +1,4 @@
-I'm happy to share a personal project I've recently been working on, inspired by Spotify's yearly "Wrapped" feature. This project revolves around my own Spotify listening history and aims to provide insights into my music preferences and habits.
+I'm happy to share a project I've recently been working on, inspired by Spotify's yearly "Wrapped" feature. This project revolves around my own Spotify listening history and aims to provide insights into my music preferences and habits.
 
 The project involved utilising Python and Tableau to create an user-friendly interactive web-based dashboard that offers insights and visualisations that bring my entire Spotify music journey to life, covering a span of four years from 2019 to 2022.
 
