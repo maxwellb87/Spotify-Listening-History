@@ -6,7 +6,7 @@ Leveraging Python's data manipulation capabilities in Jupyter Notebooks, I proce
 
 To enhance the depth of analysis, I took advantage of Spotify's API to extract additional data on track audio features, embedded URLs, and release dates. These datasets were integrated using relationships within Tableau's data model.
 
-You can explore the dashboard here: [(https://public.tableau.com/app/profile/maxwell.bernard/viz/SpotifyListeningHistory_16859605468160/WebDashboard)](https://public.tableau.com/app/profile/maxwell.bernard/viz/SpotifyListeningHistory_16859605468160/WebDashboard) 
+You can explore the wed based dashboard here: [(https://public.tableau.com/app/profile/maxwell.bernard/viz/SpotifyListeningHistory_16859605468160/WebDashboard)](https://public.tableau.com/app/profile/maxwell.bernard/viz/SpotifyListeningHistory_16859605468160/WebDashboard) 
 
 This dashboard provides a visually appealing and immersive experience. By clicking on the years, icons, song titles, dynamic bars and embedded song previews, you can filter and navigate through the rest of the dashboard.
 
